@@ -90,6 +90,7 @@ body {
 .nft-title {
 	width: fit-content;
 	margin: var(--margin) 0;
+	font-size: 1.5em;
 	color: var(--clr-white);
 	transition: color var(--transition);
 }
